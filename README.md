@@ -33,7 +33,7 @@ This project involves deploying a Java-based web application onto an EC2 instanc
 - CloudFormation: Utilized AWS CloudFormation to provision and manage the 
   necessary infrastructure.
 # Architecture Diagram
-Below is the architecture diagram for the project:
+![Alt text](Architecture 1.png)
 
 
 # How to Deploy
