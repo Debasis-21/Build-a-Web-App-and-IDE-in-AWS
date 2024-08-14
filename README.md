@@ -1,3 +1,5 @@
+![Alt text](Architecture 1.png)
+
 # AWS Web App and IDE Deployment
 This project demonstrates the deployment of a web application and an Integrated Development Environment (IDE) using various AWS services. The architecture leverages AWS CodeCommit, CodeBuild, CodeDeploy, and CloudFormation for continuous integration and delivery (CI/CD), alongside other services like EC2, S3, and IAM.
 
@@ -34,7 +36,6 @@ This project involves deploying a Java-based web application onto an EC2 instanc
   necessary infrastructure.
 # Architecture Diagram
 
-![Alt text](Architecture 1.png)
 
 
 # How to Deploy
