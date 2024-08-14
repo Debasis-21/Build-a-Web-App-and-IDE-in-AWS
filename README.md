@@ -34,7 +34,7 @@ This project involves deploying a Java-based web application onto an EC2 instanc
   necessary infrastructure.
 # Architecture Diagram
 
-![Architecture Diagram](Architecture 1.png)
+![Architecture Diagram](https://github.com/Debasis-21/Build-a-Web-App-and-IDE-in-AWS/blob/main/Architecture%201.png?raw=true)
 
 # How to Deploy
 - # Clone the Repository:
