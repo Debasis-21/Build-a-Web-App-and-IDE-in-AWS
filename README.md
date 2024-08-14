@@ -33,6 +33,7 @@ This project involves deploying a Java-based web application onto an EC2 instanc
 - CloudFormation: Utilized AWS CloudFormation to provision and manage the 
   necessary infrastructure.
 # Architecture Diagram
+
 ![Alt text](Architecture 1.png)
 
 
@@ -68,5 +69,4 @@ mvn clean install
 - Basic understanding of AWS services like EC2, S3, CodeCommit, CodeBuild, and CodeDeploy.
 # Conclusion
 This project showcases a practical implementation of deploying a Java web application using AWS's CI/CD tools, providing a robust and scalable environment for continuous development and deployment.
-
 
