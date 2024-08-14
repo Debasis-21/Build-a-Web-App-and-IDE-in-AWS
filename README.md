@@ -34,7 +34,7 @@ This project involves deploying a Java-based web application onto an EC2 instanc
   necessary infrastructure.
 # Architecture Diagram
 
-![Architecture Diagram]()
+![Architecture Diagram](Architecture 1.png)
 
 # How to Deploy
 - # Clone the Repository:
